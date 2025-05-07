@@ -1,3 +1,0 @@
-var OX_99241cdb = '';
-OX_99241cdb += "<"+"script charset=\"utf-8\" src=\"http://promo.easy-dating.org/f/alert-window-manager/?site_id=138509&type=tchat-messenger&close=1&tr4ck=popup250_nudismlife\" type=\"text/javascript\"><"+"/script><"+"div id=\'beacon_f3d2d79dd6\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://www.pubnat.fr/pub/www/delivery/lg.php?bannerid=22&amp;campaignid=2&amp;zoneid=4&amp;loc=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160318100526%2Fhttp%3A%2F%2Fwww.nudismlife.com%2F&amp;referer=http%3A%2F%2Fweb.archive.org%2Fweb%2F%2A%2FNudismlife.com&amp;cb=f3d2d79dd6\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_99241cdb);

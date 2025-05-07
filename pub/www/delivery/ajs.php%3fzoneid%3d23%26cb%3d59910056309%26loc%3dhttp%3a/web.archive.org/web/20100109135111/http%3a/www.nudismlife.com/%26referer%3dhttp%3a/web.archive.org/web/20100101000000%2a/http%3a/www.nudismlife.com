@@ -1,3 +1,0 @@
-var OX_7881d538 = '';
-OX_7881d538 += "<"+"script type=\"text/javascript\" src=\"http://promo.easy-dating.org/banner/index?site_id=138509&banner_id=1061&default_language=fr&tr4ck=468X60-dating-chat-free-registration-new\"><"+"/script><"+"div id=\'beacon_0332c13c44\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://www.pubnat.fr/pub/www/delivery/lg.php?bannerid=13&amp;campaignid=2&amp;zoneid=23&amp;loc=http%3A%2F%2Fweb.archive.org%2Fweb%2F20100109135111%2Fhttp%3A%2F%2Fwww.nudismlife.com%2F&amp;referer=http%3A%2F%2Fweb.archive.org%2Fweb%2F20100101000000%2A%2Fhttp%3A%2F%2Fwww.nudismlife.com&amp;cb=0332c13c44\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_7881d538);
