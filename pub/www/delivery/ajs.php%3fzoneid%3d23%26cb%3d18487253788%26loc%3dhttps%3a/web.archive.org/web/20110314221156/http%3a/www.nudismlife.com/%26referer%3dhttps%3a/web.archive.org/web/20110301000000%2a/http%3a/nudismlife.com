@@ -1,0 +1,5 @@
+var OX_9b698339 = '';
+OX_9b698339 += "<"+"iframe src=\"//rcm-eu.amazon-adsystem.com/e/cm?t=vivrenucom-21&o=8&p=48&l=ur1&category=noel2016&banner=042NMER5J1V1AWEBP9R2&f=ifr\" width=\"728\" height=\"90\" scrolling=\"no\" border=\"0\" marginwidth=\"0\" style=\"border:none;max-width:800px;max-height:600px;\" frameborder=\"0\"><"+"/iframe><"+"div id=\'beacon_827860db5f\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'https://www.pubnat.fr/pub/www/delivery/lg.php?bannerid=110&amp;campaignid=14&amp;zoneid=23&amp;loc=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110314221156%2Fhttp%3A%2F%2Fwww.nudismlife.com%2F&amp;referer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110301000000%2A%2Fhttp%3A%2F%2Fnudismlife.com&amp;cb=827860db5f\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div><"+"head>\n";
+OX_9b698339 += "<"+"link href=\"http://www.pubnat.fr/static/style_rouge.css\" rel=\"stylesheet\" type=\"text/css\" />\n";
+OX_9b698339 += "<"+"/head>\n";
+document.write(OX_9b698339);

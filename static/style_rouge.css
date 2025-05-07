@@ -1,0 +1,48 @@
+
+.CIT-liens-sponsorises {
+	font-size: 9px; 
+	color: #9F9F9F; 
+	font-weight: bold;
+		
+}
+
+.CIT-link {text-decoration: none; }
+.CIT-link:hover { text-decoration: none; }
+
+
+.CIT-title {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+	text-align : left;
+}
+
+.CIT-description {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+	text-align : left;
+}
+
+.CIT-domain {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+	text-align : left;
+}
+
+
+
+.CIT-link-titre-bas-votre-pub {
+	text-decoration: none; 
+	text-align : right;
+	}
+	
+.CIT-link-titre-bas-votre-pub:hover { 
+	text-decoration: none; 
+	text-align : right;
+}

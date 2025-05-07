@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+  <title>Contact - PubNat.fr - régie pour annonceurs sur sites naturistes</title>
+  
+  <link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+  <meta name="DC.Title" content="" />
+  <meta name="DC.Creator" content="" />
+  <meta name="DC.Language" scheme="rfc1766" content="" />
+  
+  <link rel="top" href="https://www.pubnat.fr/index.php?" title="Accueil" />
+  <link rel="contents" href="https://www.pubnat.fr/index.php?archive" title="Archives" />
+  
+  
+  
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.pubnat.fr/index.php?feed/rss2" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="https://www.pubnat.fr/index.php?feed/atom" />
+  
+  <link rel="stylesheet" type="text/css" href="/themes/Glossyblue/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.pubnat.fr/index.php?pf=print.css" media="print" />
+
+<script type="text/javascript" src="https://www.pubnat.fr/index.php?pf=jquery/1.4.2/jquery.js"></script>
+<script type="text/javascript" src="https://www.pubnat.fr/index.php?pf=jquery/1.4.2/jquery.cookie.js"></script>
+
+
+
+<meta name="google-site-verification" content="2_jzYOPIJ_e5expt6mkbx4tY5BoWJ_X1f30WFvoxrhA" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UAâ€“415027â€“36']);
+_gaq.push(['_trackPageview']);
+</script>
+
+</head>
+
+<body class="dc-post">
+<div id="page">
+
+
+<div id="top">
+  <div id="topimg">
+  <h1><span><a href="https://www.pubnat.fr/index.php?">PubNat.fr - régie pour annonceurs sur sites naturistes</a></span></h1>
+  <p class="desc">Mise en relation éditeurs et annonceurs naturistes</p>
+
+  </div>
+
+<p id="prelude"><a href="#main">Aller au contenu</a> |
+<a href="#blognav">Aller au menu</a> |
+<a href="#search">Aller à la recherche</a></p>
+
+<nav role="navigation"><ul id="supranav" class="simple-menu">
+<li class="li1 li-first"><a href="/index.php?" title="Billets récents"><span class="simple-menu-label">Accueil</span></a></li><li class="li2 li-last"><a href="/index.php?archive"><span class="simple-menu-label">Archives</span></a></li>
+</ul></nav>
+</div>
+
+<div id="wrapper">
+
+<div id="main">
+<div id="content">
+
+
+
+<div class="post">
+  
+  <h2 id="contactform" class="post-title"><a href="https://www.pubnat.fr/index.php?contact#contactform">Contact</a></h2>
+  
+  <div class="post-content">
+    
+    <p><strong>N'hésitez pas à me contacter !<br />
+Remplissez le formulaire et un email me sera automatiquement envoyé.</strong><br />
+<br />
+* Champ obligatoire</p>    
+    <p>&nbsp;</p>
+    
+        
+        
+  </div>
+  
+    <div id="comments">
+    
+    <form id="comment-form" action="https://www.pubnat.fr/index.php?contact#contactform" method="post" enctype="multipart/form-data">
+    <fieldset>
+      
+            
+            <p class="field"><label for="Contact_name">* Nom :</label>
+      <input type="text" id="Contact_name" name="contact[name]" value="" /></p>
+            
+            <p class="field"><label for="Contact_email">* Email :</label>
+      <input type="text" id="Contact_email" name="contact[email]" value="" /></p>
+            
+            <p class="field"><label for="Contact_subject">Sujet :</label>
+      <input type="text" id="Contact_subject" name="contact[subject]" value="" /></p>
+            
+            <p class="field"><label for="Contact_additionnal0">Site web :</label>
+      <input type="text" id="Contact_additionnal0" name="contact[additionnal][0]" value="http://" /></p>
+            
+      <p class="field"><label for="Contact_body">* Message :</label>
+      <textarea id="Contact_body" name="contact[body]" cols="35" rows="7"></textarea></p>
+      
+            <p class="field"><label for="Contact_file">Pièce jointe :</label>
+      <input type="file" id="Contact_file" name="contact_file" /></p>
+            
+            <p class="field"><label for="Contact_antispam">Recopier le code anti-spam :</label>
+      <img src="?pf=contact/antispam.img.png" alt="Anti-spam" width="100" height="25" style="vertical-align: middle;" />
+      <input type="text" id="Contact_antispam" name="contact[antispam]" value="" style="width: 98px; height: 23px; background-color: #F9F9FF; border: 1px solid #B8B8EF; vertical-align: middle; font-size: 18px; color: #BBB;" /></p>
+            
+      <p class="field">
+                <input type="submit" id="Contact_preview" name="contact[preview]" value="Prévisualiser" class="preview" />
+              
+        <input type="submit" id="Contact_send" name="contact[send]" value="Envoyer" class="submit" />
+      </p>
+      
+    </fieldset>
+    </form>
+    
+  </div>
+    
+</div>
+
+<p>&nbsp;</p>
+
+
+
+
+</div>
+</div>
+
+<div id="sidebar">
+  <div id="blognav">
+      </div> <!-- End #blognav -->
+  
+  <div id="blogextra">
+      </div> <!-- End #blogextra -->
+</div>
+
+</div> <!-- End #wrapper -->
+
+<div id="footer">
+  	<div class="footer-recent-posts">
+		<h4>Billets récents</h4>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/09/01/Tarif-annonceurs-Septembre-2009-%28d%C3%A9gressif%29">Tarif annonceurs</a></dt>
+					<dd>03 - 01 - 2015</dd>
+				</dl>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/01/06/Plateforme-de-Pub-pour-les-Naturistes">Plateforme de Pub pour les Naturistes</a></dt>
+					<dd>06 - 01 - 2009</dd>
+				</dl>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/01/21/Commander-une-campagne-de-pub">Préparer et commander une campagne de pub</a></dt>
+					<dd>05 - 01 - 2009</dd>
+				</dl>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/02/04/T%C3%A9moignages-d-annonceurs">Témoignages d'annonceurs</a></dt>
+					<dd>04 - 01 - 2009</dd>
+				</dl>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/02/10/Les-diff%C3%A9rents-sites-et-stats-du-groupe-VivreNU">Les différents sites et stats du groupe VivreNU</a></dt>
+					<dd>03 - 01 - 2009</dd>
+				</dl>
+				</div>
+	
+	<div class="footer-recent-comments">
+		<h4>Commentaires récents</h4>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/02/04/T%C3%A9moignages-d-annonceurs#c2">Francis TOUTAIN</a></dt>
+          <dd><p>Depuis 15 jours, date du dépôt de l'annonce sur Vivre nu, les visites de mon site ont doublé, les connexions depuis vivre nu représentent 56.84 % sur cette période.<br />
+Il est encore trop tôt pour vérifier s'il s'agit de simples curieux ou de clients potentiels, mais en terme de notoriété, l'avantage est indéniable.</p></dd>
+				</dl>
+							<dl>
+					<dt><a href="https://www.pubnat.fr/index.php?post/2009/02/04/T%C3%A9moignages-d-annonceurs#c1">gilles</a></dt>
+          <dd><p>Déposer votre commentaire à la suite :)</p></dd>
+				</dl>
+				</div>
+	
+	<div class="footer-about">
+	<h4>About</h4>
+		<p>Ce thème est conforme aux normes CSS et XHTML, réalisé par <a href="http://www.ndesign-studio.com">N.Design Studio</a> et adapté par <a href="http://pixials.fr.cr">Pixials</a>. Les icônes sont issus du <a href="http://www.ndesign-studio.com/stock-icons/web-2-mini/">Web 2 Mini</a> pack. Retrouvez tous les thèmes pour Dotclear sur <a href="http://themes.dotaddict.org/">dotaddict.org</a>.</p>
+<p>Pour éditer ce texte, rendez-vous sur la page de personnalisation du thème dans votre espace d'administration.</p>
+	</div>
+	<hr class="clear" />
+	
+</div>
+
+<script type="text/javascript">
+(function() {
+var ga = document.createElement('script');
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' :'http://www') + '.google-analytics.com/ga.js';
+ga.setAttribute('async', 'true');
+document.documentElement.firstChild.appendChild(ga);
+})();
+</script>
+<div id="credits">
+	<p class="alignleft">
+	Thème original par <a href="http://www.ndesign-studio.com/">N.Design Studio</a> - Adapté par <a href="http://pixials.fr.cr">Pixials</a> - Propulsé par <a href="http://dotclear.org/">Dotclear</a>	</p>
+	<p class="alignright">
+    <a class="rss" title="Fil des billets" href="https://www.pubnat.fr/index.php?feed/atom">Fil des billets</a>
+  </p>
+</div>
+</div> <!-- End #page -->
+</body>
+</html>

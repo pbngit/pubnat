@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML"
+"http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0">
+<title>PubNat.fr - régie pour annonceurs sur sites naturistes blogroll</title>
+<bookmark href="https://www.vivrenu.com">
+<title>VivreNu</title>
+</bookmark>
+<bookmark href="https://www.blognaturiste.com">
+<title>Blogs Naturistes</title>
+</bookmark>
+<bookmark href="https://www.photos-naturistes.fr">
+<title>Photos Naturistes</title>
+</bookmark>
+<bookmark href="https://www.lenaturisme.fr">
+<title>Le Naturisme photos</title>
+</bookmark>
+<bookmark href="https://www.revues-naturistes.com">
+<title>Revues Naturistes</title>
+</bookmark>
+<bookmark href="https://www.tousnus.fr">
+<title>Tous Nus</title>
+</bookmark>
+</xbel>

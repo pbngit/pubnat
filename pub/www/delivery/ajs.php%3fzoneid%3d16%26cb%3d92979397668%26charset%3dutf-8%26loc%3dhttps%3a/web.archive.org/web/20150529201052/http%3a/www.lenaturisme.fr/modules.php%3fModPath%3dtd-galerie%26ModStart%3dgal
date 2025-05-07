@@ -1,0 +1,3 @@
+var OX_61258aa5 = '';
+OX_61258aa5 += "<"+"div id=\'beacon_a7ef3a4b9a\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'https://www.pubnat.fr/pub/www/delivery/lg.php?bannerid=0&amp;campaignid=0&amp;zoneid=16&amp;loc=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150529201052%2Fhttp%3A%2F%2Fwww.lenaturisme.fr%2Fmodules.php%3FModPath%3Dtd-galerie%26ModStart%3Dgal&amp;cb=a7ef3a4b9a\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(OX_61258aa5);
