@@ -84,7 +84,7 @@ _gaq.push(['_trackPageview']);
 		03		</div>
 		   
     <h2 class="post-title"><a
-    href="http://www.pubnat.fr/index.php?post/2009/09/01/Tarif-annonceurs-Septembre-2009-%28d%C3%A9gressif%29">Tarif annonceurs</a></h2>
+    href="/">Tarif annonceurs</a></h2>
 
     <p class="post-info">
     
